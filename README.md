@@ -1,2 +1,2 @@
-# face_recognition_py
-    face recognition using AWS Rekognition and OpenCV python module.
+# AWS Rekognition utility
+    AWS Rekognition utility python script to use different api of rekognition like create/list/delte collection/faces.
